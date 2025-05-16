@@ -8,14 +8,14 @@ from vaciar_lista import vaciar_lista
 
 print(agregar([1, 2, 3], 4))
 
-print(insertar([1, 2, 3], 4, 0))
+#print(insertar([1, 2, 3], 4, 0))
 
-print(obtener_indice([1, 2, 3], 4))
+#print(obtener_indice([1, 2, 3], 4))
 
-print(eliminar([1, 2, 3]))
+#print(eliminar([1, 2, 3]))
 
-print(eliminar_primer_instancia([1, 2, 3], 4))
+#print(eliminar_primer_instancia([1, 2, 3], 4))
 
-print(eliminar_todos([1, 2, 3], 4))
+#print(eliminar_todos([1, 2, 3], 4))
 
-print(vaciar_lista([1, 2, 3]))
+#print(vaciar_lista([1, 2, 3]))
